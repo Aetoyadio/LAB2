@@ -58,4 +58,13 @@ input[type="checkbox"]{
 label {
     color: #ffffff;
 }
-
+table {
+    text-align: center;
+    margin: 20px auto;
+    color: #ffffff;
+    border: 1px solid #0093E9;
+}
+ul, ol, h2, dl, dd, dt {
+    margin:20px 30px;
+    color: #ffffff;
+}
